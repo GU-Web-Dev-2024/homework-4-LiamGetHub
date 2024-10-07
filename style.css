@@ -1,4 +1,8 @@
 /*Liam Fitting, web dev, 10/6, hw4*/
+
+body {
+    background-color: black;
+}
 header {
     background-color:  orange;
     text-align: center;
